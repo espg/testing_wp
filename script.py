@@ -8,6 +8,6 @@ Make table
 
 Make header bold
 
-Make small figure
+Make small figure, red line
 
 # comment
