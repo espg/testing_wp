@@ -1,5 +1,6 @@
 # Camera trap script
 # Author: espg (Shane)
+# refuge@rocktalus.com
 
 Read data file
 
