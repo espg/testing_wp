@@ -1,4 +1,5 @@
 # Camera trap script
+# Author: espg (Shane)
 
 Read data file
 
